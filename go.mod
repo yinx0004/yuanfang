@@ -4,7 +4,7 @@ go 1.26.0
 
 require (
 	github.com/anthropics/anthropic-sdk-go v1.84.0
-	github.com/go-sql-driver/mysql v1.10.1
+	github.com/go-sql-driver/mysql v1.10.2
 	github.com/openai/openai-go/v3 v3.91.0
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/term v0.47.0
